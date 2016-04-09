@@ -1,0 +1,44 @@
+p {
+  font: 1em Verdana, Geneva, Arial, Helvetica, sans-serif;
+  line-height:1.8;
+}
+
+.container {
+max-width:780px;
+
+border-width:5px;border-color:black;border-style:solid;
+margin:0 auto;
+padding:20px;
+}
+
+
+.title
+{display:block;
+max-width:800px;
+font-style: bold;
+font-size:50px;
+background-color:yellow;
+margin:50 auto;
+}
+
+
+.guarantee
+{border-color:black;
+border-width:1px;
+border-style;solid;
+max-width: 800px;
+margin:0 auto;}
+
+
+
+.block
+{display:block;
+margin:3em;
+padding:2em;
+max-width:300px;
+background-color:#a7cece;
+margin:0px;     
+font-size: 15px;
+}
+
+

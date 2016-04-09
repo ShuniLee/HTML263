@@ -1,0 +1,25 @@
+
+.container{
+  border:1px solid #000; overflow:auto;
+}
+
+header{background-color:#daa}
+
+.box{width:200px;
+
+margin:2px;
+background-color:#ccc;
+float:left;}
+
+p{background-color:#aad;}
+footer{background-color:#daa;
+clear:left}
+
+p:after{content:"TEST";
+background-color: #ada;}
+
+<meta name="viewport"
+content="width:device-width "
+
+
+initial-scale:3
